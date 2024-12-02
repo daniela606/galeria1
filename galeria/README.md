@@ -54,4 +54,7 @@ Asegúrate de tener instalado Node.js y npm en tu máquina. Puedes descargarlos 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/galeria-arte-3d.git
+   git clone https://github.com/daniela606/galeria1.git
+
+
+asi mismo no olvidar descargar las librerias mencionadas al principio para una mejor ejecución del proyecto
